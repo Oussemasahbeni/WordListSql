@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WordListSql</string>
+    <string name="hint_word">Word...</string>
+    <string name="hint_definition">Definition...</string>
+    <string name="button_save">save</string>
+    <string name="button_new">new</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
